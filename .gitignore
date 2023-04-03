@@ -31,3 +31,4 @@ yarn-debug.log*
 .yarn-integrity
 public/images/test_image.pngZone.Identifier
 *.Identifier
+public/images/test_image.pngZone.Identifier
